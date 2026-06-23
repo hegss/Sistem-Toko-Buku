@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{ "path": "app.data" },
+		{ "path": "app.logic" },
+		{ "path": "app.ui" }
+	],
+	"settings": {}
+}

@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "app.data/src",
+        "app.logic/src",
+        "app.ui/src"
+    ]
+}
