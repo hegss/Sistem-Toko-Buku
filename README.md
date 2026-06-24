@@ -49,5 +49,5 @@ pom.xml
 ## Author
 
 - Muhammad Haikal Al Jaba (202333500781)
-- Gias Hegi Tamara (202333500804)
-- Sharma Rizky Aditama (202333500809)
+- Gias Hegy Tamara (202333500804)
+- Sharma Rizky Adhitama (202333500809)
