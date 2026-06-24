@@ -1,6 +1,6 @@
 # Sistem Manajemen Toko Buku Digital
 
-Proyek ini merupakan implementasi Java Modular (JPMS) untuk sistem manajemen toko buku digital. Sistem dibangun dengan memisahkan fungsi ke dalam tiga modul independen:
+Proyek ini merupakan tugas kelompok mata kuliah Pemrograman Berorientasi Objek berbasis modular untuk pembuatan sistem manajemen toko buku digital. Sistem dibangun dengan memisahkan fungsi ke dalam tiga modul independen:
 
 - `app.data` : Menyimpan data dan simulasi database buku.
 - `app.logic` : Menangani logika bisnis seperti validasi stok, perhitungan harga, dan proses pembelian.
@@ -45,7 +45,6 @@ pom.xml
 ## Teknologi
 
 - Java 17
-- Java Platform Module System (JPMS)
 
 ## Author
 
